@@ -1,5 +1,5 @@
 # Rabbits-vs-sheeps
-Bidimensional flow analysis of the rabbits vs sheeps model (dynamical systems for AI)
+Bidimensional flow analysis of the rabbits vs sheeps growth model (dynamical systems for AI)
 
 In this repository I have uploaded a pdf file in which I have analysed the rabbits vs sheeps model.
 The main purposes are:
